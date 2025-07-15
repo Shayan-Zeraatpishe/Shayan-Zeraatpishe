@@ -1,4 +1,4 @@
-<img src="https://github.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/blob/main/banner2.png?raw=true"/>
+<img src="https://github.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/blob/main/banner3.png?raw=true"/>
 
 <h2 align="center">Hi, I'm Shayan 👋</h2>
 
