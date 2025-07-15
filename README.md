@@ -23,13 +23,13 @@ I'm a passionate Fullstack Developer and Software Engineering student at Bahonar
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
-  <a href="https://facebook.com"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/facebook.png" width="60" alt="Facebook" /></a>
+  <a href="https://facebook.com"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/facebook.png" width="55" alt="Facebook" /></a>
     &nbsp;&nbsp;
-  <a href="https://instagram.com"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/instagram.png" width="60" alt="Instagram" style="margin-left: 10px;" /></a>
+  <a href="https://instagram.com"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/instagram.png" width="55" alt="Instagram" style="margin-left: 10px;" /></a>
     &nbsp;&nbsp;
-  <a href="https://linkedin.com"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/linkedin.png" width="60" alt="LinkedIn" style="margin-left: 10px;" /></a>
+  <a href="https://linkedin.com"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/linkedin.png" width="55" alt="LinkedIn" style="margin-left: 10px;" /></a>
     &nbsp;&nbsp;
-  <a href="https://t.me/yourusername"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/telegram.png" width="60" alt="Telegram" style="margin-left: 10px;" /></a>
+  <a href="https://t.me/yourusername"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/telegram.png" width="55" alt="Telegram" style="margin-left: 10px;" /></a>
 </p>
 
 
