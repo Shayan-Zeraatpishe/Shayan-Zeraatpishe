@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Shayan Zeraatpishe
+I'm a passionate Fullstack Developer and Software Engineering student at Bahonar University.
 
-<!--
-**Shayan-Zeraatpishe/Shayan-Zeraatpishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+- 💻 Languages: C#, JavaScript, SQL, HTML, CSS
+- 🌐 Web: ASP.NET Core, MVC, Entity Framework, REST API, Razor Pages
+- ⚙️ Tools: Git, GitHub, Visual Studio, VS Code, Postman
+- 🗄️ Database: SQL Server, SQLite
+- 🎨 Frontend: Bootstrap, Tailwind CSS, jQuery
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+- Email: shayan.dev@email.com
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- Portfolio: [shayan.dev](https://your-portfolio-link.com)
