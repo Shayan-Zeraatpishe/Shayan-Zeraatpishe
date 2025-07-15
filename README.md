@@ -1,6 +1,6 @@
 <img src="https://github.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/blob/main/banner2.png?raw=true"/>
 
-<h1 align="center">Hi, I'm Shayan Zeraatpishe 👋</h1>
+<h2 align="center">Hi, I'm Shayan Zeraatpishe 👋</h2>
 
 I'm a passionate Fullstack Developer and Software Engineering student at Bahonar University.
 
