@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Shayan Zeraatpishe
 I'm a passionate Fullstack Developer and Software Engineering student at Bahonar University.
-<img src="https://github.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/blob/main/banner.png?raw=true"/>
+<img src="https://github.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/blob/main/banner2.png?raw=true"/>
 
 ### 🛠️ Tech Stack
 - 💻 Languages: C#, JavaScript, SQL, HTML, CSS
