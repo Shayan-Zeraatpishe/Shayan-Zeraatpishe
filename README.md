@@ -1,13 +1,14 @@
-### 👋 Hi, I'm Shayan Zeraatpishe
-I'm a passionate Fullstack Developer and Software Engineering student at Bahonar University.
 <img src="https://github.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/blob/main/banner2.png?raw=true"/>
+<h1 align="center">Hi, I'm Shayan Zeraatpishe 👋</h1>
+
+I'm a passionate Fullstack Developer and Software Engineering student at Bahonar University.
 
 ### 🛠️ Tech Stack
-- 💻 Languages: C#, JavaScript, SQL, HTML, CSS
+- 💻 Languages: C#, JavaScript, SQL , TypeScript
 - 🌐 Web: ASP.NET Core, MVC, Entity Framework, REST API, Razor Pages
 - ⚙️ Tools: Git, GitHub, Visual Studio, VS Code, Postman
-- 🗄️ Database: SQL Server, SQLite
-- 🎨 Frontend: Bootstrap, Tailwind CSS, jQuery
+- 🗄️ Database: SQL Server , MongoDB
+- 🎨 Frontend: Bootstrap, HTML , CSS , SASS
 
 
 ### 📫 Contact Me
