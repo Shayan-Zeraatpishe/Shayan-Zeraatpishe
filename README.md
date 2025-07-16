@@ -27,9 +27,9 @@ I'm a passionate Fullstack Developer and Software Engineering student at Bahonar
     &nbsp;&nbsp;
   <a href="https://instagram.com"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/instagram.png" width="55" alt="Instagram" style="margin-left: 10px;" /></a>
     &nbsp;&nbsp;
-  <a href="https://linkedin.com"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/linkedin.png" width="55" alt="LinkedIn" style="margin-left: 10px;" /></a>
+  <a href="https://linkedin.com/shayan-zeraatpishe"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/linkedin.png" width="55" alt="LinkedIn" style="margin-left: 10px;" /></a>
     &nbsp;&nbsp;
-  <a href="https://t.me/yourusername"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/telegram.png" width="55" alt="Telegram" style="margin-left: 10px;" /></a>
+  <a href="https://t.me/SHZ_7"><img src="https://raw.githubusercontent.com/Shayan-Zeraatpishe/Shayan-Zeraatpishe/main/telegram.png" width="55" alt="Telegram" style="margin-left: 10px;" /></a>
 </p>
 
 
